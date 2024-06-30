@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "4dcb75126cf3f75d41bd7c1d16657bfc5baac06969e7cfba6b8788565265616c5a616e6e61436f696e": {
+    "token_id": "4dcb75126cf3f75d41bd7c1d16657bfc5baac06969e7cfba6b8788565265616c5a616e6e61436f696e",
+    "token_policy": "4dcb75126cf3f75d41bd7c1d16657bfc5baac06969e7cfba6b878856",
+    "token_ascii": "RealZannaCoin",
+    "is_verified": true,
+    "ticker": "ZANNA",
+    "decimals": 0
   }
 }
