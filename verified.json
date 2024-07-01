@@ -3648,5 +3648,12 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "undefined4c616d626f436f696e": {
+    "token_id": "undefined4c616d626f436f696e",
+    "token_ascii": "LamboCoin",
+    "is_verified": true,
+    "ticker": "LUMBO",
+    "decimals": 0
   }
 }
