@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e1458b10a6ecd9185cf21b1c6e392fce6f61ad94b37f304a4a3935f552696262794f6e416461": {
+    "token_id": "e1458b10a6ecd9185cf21b1c6e392fce6f61ad94b37f304a4a3935f552696262794f6e416461",
+    "token_policy": "e1458b10a6ecd9185cf21b1c6e392fce6f61ad94b37f304a4a3935f5",
+    "token_ascii": "RibbyOnAda",
+    "is_verified": true,
+    "ticker": "RIBBY",
+    "decimals": 0
   }
 }
