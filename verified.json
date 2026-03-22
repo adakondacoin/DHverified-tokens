@@ -326,7 +326,7 @@
   "473e6a5a73108783abdd8b540eb0bca7265741d1f1e8fa55b0e8ef32646567656e": {
     "token_id": "473e6a5a73108783abdd8b540eb0bca7265741d1f1e8fa55b0e8ef32646567656e",
     "token_policy": "473e6a5a73108783abdd8b540eb0bca7265741d1f1e8fa55b0e8ef32",
-    "token_ascii": "🧠",
+    "token_ascii": "\ud83e\udde0",
     "is_verified": true,
     "ticker": "DEG"
   },
@@ -3061,5 +3061,13 @@
     "is_verified": true,
     "ticker": "MESSI",
     "decimals": 6
+  },
+  "39a8da1934f0f2465cd3045727387126b4f6c9fa0e469a7277e7f14e546573742070726f6a656374": {
+    "token_id": "39a8da1934f0f2465cd3045727387126b4f6c9fa0e469a7277e7f14e546573742070726f6a656374",
+    "token_policy": "39a8da1934f0f2465cd3045727387126b4f6c9fa0e469a7277e7f14e",
+    "token_ascii": "Test project",
+    "is_verified": true,
+    "ticker": "TSTTK",
+    "decimals": 0
   }
 }
